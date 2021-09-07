@@ -1,0 +1,7 @@
+name: Custom CSV Import Module
+type: module
+core: '8.x'
+core_version_requirement: ^8 || ^9
+description: IA's Custom CSV Import module
+package: 'IA Tech' 
+version: '1.0'

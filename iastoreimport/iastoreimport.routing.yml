@@ -1,0 +1,7 @@
+iastoreimport.content:
+  path: '/storeloactor/importcsv'
+  defaults:
+    _controller: '\Drupal\iastoreimport\Controller\IastorelocatorController::content'
+    _title: 'IA - Store Locator Import CSV'
+  requirements:
+    _permission: 'admin content'
